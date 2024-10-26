@@ -33,7 +33,7 @@ print("La dirección de memoria es" , id(a))
 #   Obtener la dirección de memoria de un diccionario
 a = {'a': 1, 'b': 2}
 print(a)
-print("La dirección de memoria es es" , id(a))
+print("La dirección de memoria es" , id(a))
 
 a["c"] = 3
 print(a)
